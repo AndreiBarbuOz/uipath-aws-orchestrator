@@ -31,7 +31,7 @@ Mappings:
       Arch: HVM64
   AWSRegionArch2AMI:
     ap-southeast-2:
-      HVM64: ami-022ecd08d23a9bf9c
+      HVM64: ami-0d740b96c9b6cc5a7
 Resources:
   VPC:
     Type: AWS::EC2::VPC

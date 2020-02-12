@@ -1,6 +1,6 @@
 [
     {
         "ParameterKey": "KeyName",
-        "ParameterValue": "aws-key-name"
+        "ParameterValue": "existing-aws-key-name"
     }
 ]
